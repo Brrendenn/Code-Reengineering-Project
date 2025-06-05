@@ -13,3 +13,4 @@ Contributors :
 - [@Raihan-Khalis](https://github.com/Raihan-Khalis)
 - [@ChristopherLesmana](https://github.com/ChristopherLesmana)
 - [@Brrendenn](https://github.com/Brrendenn)
+- [@pelikkk](https://github.com/pelikkk)
