@@ -8,3 +8,8 @@ Code Reengineering Project Group 08
 
 Original Repository : 
 https://github.com/shreyasibhattacharya/Library-Management-System
+
+Contributors : 
+- @Raihan-Khalis
+- @ChristopherLesmana
+- @Brrendenn
