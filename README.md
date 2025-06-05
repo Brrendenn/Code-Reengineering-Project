@@ -10,6 +10,6 @@ Original Repository :
 https://github.com/shreyasibhattacharya/Library-Management-System
 
 Contributors : 
-- @Raihan-Khalis
-- @ChristopherLesmana
-- @Brrendenn
+- [@Raihan-Khalis](https://github.com/Raihan-Khalis)
+- [@ChristopherLesmana](https://github.com/ChristopherLesmana)
+- [@Brrendenn](https://github.com/Brrendenn)
